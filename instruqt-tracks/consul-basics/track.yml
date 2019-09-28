@@ -40,6 +40,8 @@ challenges:
 
     Start the Consul server process on each cluster node with the following command.
 
+    Notice the five tabs in the top left of the window.
+
     ```
     /bin/start_consul.sh
     ```
